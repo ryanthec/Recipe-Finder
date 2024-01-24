@@ -1,7 +1,7 @@
 # Recipe-Finder
 
 Basic Recipe Finder website using HTML, CSS, and Javascript.  
-Has 3 different types of searches, basic recipe finder, super recipe finder, and random recipe finder.
+Has 3 different types of searches, basic recipe finder, super recipe finder, and random recipe finder.  
 Using a free API so there is a limited number of API calls that can be made daily, if the demo does not work, it is likely due to this issue. Sorry about that.
 
 
