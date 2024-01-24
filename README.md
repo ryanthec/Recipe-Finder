@@ -6,7 +6,7 @@ Using a free API so there is a limited number of API calls that can be made dail
 
 
 ## Live Demo
-Check out the live demo [here](https://ryanthec.github.io/Recipe-Finder/){:target="_blank"}.
+Check out the live demo [here](https://ryanthec.github.io/Recipe-Finder/).
 
 ## How to use
 Basic recipe finder allows users to enter some ingredients that they want to use and some recipes using those ingredients will be provided. However, only the ingredients are provided.  
