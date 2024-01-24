@@ -1,0 +1,159 @@
+
+.body{
+    font-family:Montserrat, sans-serif;
+}
+
+.navbar{
+    margin-bottom:1rem;
+}
+
+.navbar-light {
+    background-color: hsla(120, 8%, 47%, 0.7) !important;
+}
+
+.navbar-brand{
+    color:#333333;
+    font-size:1.5rem;
+}
+
+.heading{
+    text-align:center;
+
+}
+.heading h1{
+    font-size:4rem;
+    color:#333333;
+}
+
+.heading p{
+    font-size:1.5rem;
+    color:#333333;
+}
+
+#myInput{
+    font-size:2rem;
+}
+
+#submitBtn{
+    font-size:2rem;
+    border:none;
+    border-radius:10px;
+    padding: 5px 10px;
+    background-color:hsla(120, 8%, 47%, 0.7);
+    color:#f2f2f2;
+    font-weight:bold;
+}
+
+#submitBtn:hover{
+    background-color:hsla(120, 8%, 47%, 0.9);
+}
+
+
+h2{
+    text-align:center;
+    margin: 1rem 0;
+    font-weight:bold;
+    font-size:2rem;
+    color:#333333;
+}
+
+
+#filters{
+    width:100%;
+    max-width:100%;
+    height:auto;
+    font-size:1.5rem;
+    display:flex;
+    flex-wrap:wrap;
+    align-items:flex-start;
+    background-color:#f2f2f2;
+    border-radius:15px;
+
+}
+
+#filters ul{
+    list-style-type: none;
+    display:flex;
+    flex-wrap:wrap;
+    max-width:100%;
+    justify-content:center;
+}
+
+.filterItem{
+    margin: 0.5rem 1rem;
+    border: none;
+    border-radius:10px;
+    padding:5px 10px;
+    background-color:hsla(120, 8%, 47%, 0.586);
+    font-size:1.5rem;
+}
+
+
+.filterBtns{
+    background-color:hsla(120, 9%, 37%, 0.586);
+    border:none;
+    margin-left: 0.5rem;
+}
+
+.filterBtns:hover{
+    background-color:hsla(120, 9%, 37%, 0.9);
+}
+
+
+#showRecipe{
+    text-align:center;
+    margin: 2rem;
+}
+
+#recipeBtn{
+    font-size:2rem;
+    padding:10px 15px;
+    border:none;
+    border-radius:15px;
+    background-color:#333333;
+    color:#f2f2f2;
+}
+
+
+#recipes{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:2rem;
+}
+
+.recipeDivClass{
+    display:block;
+    text-align:center;
+    color:#333333;
+    background-color: hsla(120, 9%, 37%, 0.7);
+    border-radius:15px;
+    margin: 1rem 1rem;
+    padding:1rem;
+    min-width:70%;
+    max-width:70%;
+}
+
+.recipeDivClass img{
+    margin-bottom:1rem;
+    max-width:100%;
+    min-width:70%;
+    border-radius:10px;
+    border:3px solid hsl(0, 1%, 20%);
+}
+
+.recipeDivClass h3{
+    font-size:2rem;
+    padding-top:20px;
+    font-weight:bold;
+}
+
+
+.recipeDivClass li{
+    font-size:1.2rem;
+    font-weight:bold;
+}
+
+
+
+
